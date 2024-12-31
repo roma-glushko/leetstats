@@ -1,7 +1,8 @@
 ---
 tags:
   - complexity:hard
-  - bayesian
+  - topic:bayesian
+  - topic:language
 ---
 
 # Spell Checker

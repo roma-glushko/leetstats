@@ -31,6 +31,11 @@ LeetStats have two problem templates to keep our problem statements as consisten
 
 Pick the template that fits your problem type first, fill with the available information and create a pull request into [our GitHub repository](https://github.com/roma-glushko/leetstats).
 
+## Community Solutions
+
+Solved a good portion of our problems and have your own repository with solutions?
+Let us know, we would like to feature it in [our community solutions gallery]()!
+
 ## Citation
 
 If you want to mention LeetStats in your papers, please cite it as follows:

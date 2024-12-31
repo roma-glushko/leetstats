@@ -25,6 +25,7 @@ theme:
         name: Switch to light mode
   icon:
     repo: fontawesome/brands/github
+    logo: material/book-check-outline
   features:
     - search.suggest
     - search.highlight
@@ -69,3 +70,5 @@ nav:
   - Problems:
     - problems/index.md
     - problems/spell-checker.md
+  - Solutions:
+    - solutions/index.md
