@@ -40,6 +40,8 @@ theme:
 
 repo_url: https://github.com/roma-glushko/leetstats
 repo_name: roma-glushko/leetstats
+edit_uri: edit/main/docs/
+
 copyright: Copyright &copy; 2025 - Present, <a href="https://www.romaglushko.com/">Roman Hlushko</a> & <a href="https://github.com/roma-glushko/leetstats">Friends</a>
 
 markdown_extensions:
