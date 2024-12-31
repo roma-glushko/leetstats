@@ -1,6 +1,7 @@
 ---
 tags:
   - complexity:hard
+  - bayesian
 ---
 
 # Spell Checker
@@ -11,7 +12,7 @@ You may assume that each input would have exactly one solution, and you may not 
 
 You can return the answer in any order.
 
-### Examples
+## Examples
 
 Example 1:
 
@@ -35,7 +36,7 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
-### Constraints
+## Constraints
 
 - 2 <= nums.length <= 104
 - -109 <= nums[i] <= 109
