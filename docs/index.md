@@ -45,6 +45,6 @@ If you want to mention LeetStats in your papers, please cite it as follows:
   title={LeetStats},
   author={Roman Hlushko},
   year={2022},
-  howpublished={\url{https://leetstats.com}},
+  howpublished={\url{https://leetstats.readthedocs.io/}},
 }
 ```

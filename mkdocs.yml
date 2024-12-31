@@ -38,6 +38,7 @@ theme:
     - navigation.sections
     - navigation.expand
 
+site_author: Roman Hlushko
 repo_url: https://github.com/roma-glushko/leetstats
 repo_name: roma-glushko/leetstats
 edit_uri: edit/main/docs/
