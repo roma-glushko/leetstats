@@ -1,4 +1,7 @@
 site_name: LeetStats
+site_description: An open source collection of applied statistics and data science problems. LeetCode for Data Scientists.
+site_url: https://leetstats.readthedocs.io/
+
 theme:
   name: material
   language: en
