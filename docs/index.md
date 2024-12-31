@@ -44,7 +44,7 @@ If you want to mention LeetStats in your papers, please cite it as follows:
 @misc{leetstats,
   title={LeetStats},
   author={Roman Hlushko},
-  year={2022},
+  year={2025},
   howpublished={\url{https://leetstats.readthedocs.io/}},
 }
 ```
