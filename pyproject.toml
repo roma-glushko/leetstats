@@ -1,0 +1,19 @@
+[project]
+name = "leetstats"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Roman Glushko", email = "roman.glushko.m@gmail.com"},
+]
+dependencies = [
+    "mkdocs-material>=9.5.49",
+    "mkdocs-git-authors-plugin>=0.9.2",
+    "markdown>=3.7",
+]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "Apache-2.0"}
+
+
+[tool.pdm]
+distribution = false
