@@ -4,9 +4,9 @@ tags:
   - topic:hypothesis-testing
 ---
 
-# LS00001. Random or Not?
+# LS00001. Random Number Sequence
 
-Given a sequence of numbers, 
+Given a sequence of digits, 
 return `true` if the sequence is random or `false` if it was created by a human.
 
 ## Examples

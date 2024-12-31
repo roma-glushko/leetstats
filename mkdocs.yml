@@ -55,7 +55,10 @@ plugins:
   - search
   - tags:
       tags_file: problems/index.md
-  - git-authors
+  - git-revision-date-localized
+  - git-committers:
+      repository: roma-glushko/leetstats
+      branch: main
 
 extra_javascript:
   - js/katex.js
@@ -70,7 +73,7 @@ nav:
   - Problems:
     - problems/index.md
     - Easy:
-      - problems/random-or-not.md
+      - problems/random-num-sequence.md
     - Hard:
       - problems/spell-checker.md
   - Solutions:
