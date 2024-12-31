@@ -45,6 +45,8 @@ markdown_extensions:
   - abbr
   - tables
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.arithmatex:
       generic: true
 

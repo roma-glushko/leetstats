@@ -45,6 +45,19 @@ Output: [0,1]
 
 ## Hints
 
+??? note "Hint #1"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+
+??? note "Hint #2"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
 ## Followups
 
 - Can you come up with an algorithm that is less than O(n2) time complexity?

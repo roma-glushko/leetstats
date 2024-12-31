@@ -31,6 +31,20 @@ Output: [1,2]
 ## Hints
 
 {[Optional] A list of hints that should help the students to solve the problem when they are stuck. It should not directly talk about solution but rather push them in the right direction}
+{Hints should be collapsed by default, so that the students can decide if they want to see them}
+
+??? note "Hint #1"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+
+??? note "Hint #2"
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
 
 ## Followups
 

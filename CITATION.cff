@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LeetStats
+message: A collection of applied statistics problems
+type: software
+authors:
+  - given-names: Roman
+    family-names: Hlushko
+    email: roman.glushko.m@gmail.com
+identifiers:
+  - type: url
+    value: 'https://github.com/roma-glushko/leetstats/'
+    description: GitHub Repository
+repository-code: 'https://github.com/roma-glushko/leetstats/'
+keywords:
+  - applied-statistics
+  - data-science
+  - machine-learning
+  - statistical-learning
+license: Apache-2.0
